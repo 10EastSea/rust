@@ -1,11 +1,5 @@
-*.swp
-*.bk
 .DS_Store
+
 **/target
-tmp
-bin/configlet
-bin/configlet.exe
-bin/exercise
-bin/exercise.exe
-exercises/*/*/Cargo.lock
-exercises/*/*/clippy.log
+**/Cargo.lock
+**/clippy.log
